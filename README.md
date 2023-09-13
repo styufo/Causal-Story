@@ -1,4 +1,3 @@
 # Casual-Story
-Local nonlinear causal attention latent diffusion models for visual story synthesis
-
+CAUSAL-STORY: Local Causual Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis
 Coming soon!
