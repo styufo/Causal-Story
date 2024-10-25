@@ -1,7 +1,7 @@
 # Casual-Story
 CAUSAL-STORY: Local Causual Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis
 
-![GitHub Logo](https://github.com/styufo/Causal-Story/master/example.png)
+![GitHub Logo](https://github.com/styufo/Causal-Story/blob/main/example.png)
 
 
 
