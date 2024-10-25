@@ -10,7 +10,7 @@ CAUSAL-STORY: Local Causual Attention Utilizing Parameter-Efficient Tuning For V
 
 # Citation
 If you find this code useful for your research, please cite our paper:
-```python
+```BibTeX
 @INPROCEEDINGS{10446420,
   author={Song, Tianyi and Cao, Jiuxin and Wang, Kun and Liu, Bo and Zhang, Xiaofeng},
   booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
