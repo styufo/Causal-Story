@@ -5,6 +5,8 @@ CAUSAL-STORY: Local Causual Attention Utilizing Parameter-Efficient Tuning For V
 Here are the example of two tasks this work focus on:
 ![GitHub Logo](https://github.com/styufo/Causal-Story/blob/main/example.png)
 
+Code for (["CAUSAL-STORY: Local Causual Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis (ICASSP 2024)"](https://ieeexplore.ieee.org/abstract/document/10446420)).
+
 
 
 # Environment
@@ -43,7 +45,7 @@ we also provide the hdf5 files here:
 FlintstonesSV hdf5:["百度云盘（提取码3853）"](https://pan.baidu.com/s/1LcbNoMKqP2nF9RHUFUQYzw?pwd=3853).
 
 
-Pororo hdf5:["百度云盘（提取码jufe）"](https://pan.baidu.com/s/18JzrFpEqj30QnoLmgSHx5w?pwd=jufe).
+Pororo hdf5:
 
 
 # Training
