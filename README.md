@@ -1,6 +1,10 @@
 # Casual-Story
 CAUSAL-STORY: Local Causual Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis
 
+   “`markdown
+   ![GitHub Logo](https://github.com/styufo/Causal-Story/raw/master/example.png)
+   “`
+
 
 # Environment
 First, you need to create a corresponding conda environment：
