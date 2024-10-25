@@ -43,17 +43,6 @@ flintstones:
   clip_embedding_tokens: 49412
   blip_embedding_tokens: 30525
 
-vistsis:
-  hdf5_file: /path/to/vist.h5
-  max_length: 100
-  clip_embedding_tokens: 49408
-  blip_embedding_tokens: 30524
-
-vistdii:
-  hdf5_file: /path/to/vist.h5
-  max_length: 65
-  clip_embedding_tokens: 49408
-  blip_embedding_tokens: 30524
 
 hydra:
   run:
