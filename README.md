@@ -1,6 +1,18 @@
 # Casual-Story
 CAUSAL-STORY: Local Causual Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis
 
+
+# Environment
+First, you need to create a corresponding conda environment：
+```python
+conda create -n Causal-Story python=3.8
+conda activate Causal-Story
+conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch-lts
+git clone https://github.com/styufo/Causal-Story.git
+cd Causal-Story
+pip install -r requirements.txt
+```
+
 # Data Preparation
 *The FlintstonesSV Dataset can be downloaded from here(["google drive"](https://drive.usercontent.google.com/download?id=1kG4esNwabJQPWqadSDaugrlF4dRaV33_&export=download&authuser=0))or["百度云盘（提取码jufe）"](https://pan.baidu.com/s/18JzrFpEqj30QnoLmgSHx5w?pwd=jufe).
 
