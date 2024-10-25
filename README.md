@@ -41,6 +41,11 @@ FlintstonesSV hdf5:["百度云盘（提取码jufe）"](https://pan.baidu.com/s/1
 Pororo hdf5:["百度云盘（提取码jufe）"](https://pan.baidu.com/s/18JzrFpEqj30QnoLmgSHx5w?pwd=jufe).
 
 
+# Training
+You need to modify the parameters in config. yaml according to the location of your file. And than, run:
+```python
+python main.py
+```
 
 
 # Citation
