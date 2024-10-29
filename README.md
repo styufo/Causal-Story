@@ -10,9 +10,10 @@ Here are the example of two tasks this work focus on:
 
 Code for (["CAUSAL-STORY: Local Causual Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis (ICASSP 2024)"](https://ieeexplore.ieee.org/abstract/document/10446420)).
 
-#Architecture
-![GitHub Logo](https://github.com/styufo/Causal-Story/blob/main/example.png)
 
+#Architecture
+![GitHub Logo](https://github.com/styufo/Causal-Story/blob/main/arti.png)
+Model architecture of Causal-Story. Our model is inspired by ([ARLDM](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html)). The solid line box represents the overall structure of the denoising U-Net section of stable diffusion model, while the dashed line box introduces the specific composition of key modules. The green dashed box displays the location of the local causal attention module and adapter, while the gray dashed box displays the details of the local causal attention module.
 
 # Environment
 First, you need to create a corresponding conda environment：
