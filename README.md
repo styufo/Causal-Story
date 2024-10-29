@@ -34,6 +34,9 @@ pip install -r requirements.txt
 
 
 To accelerate I/O, using the following scrips to convert your downloaded data to HDF5:
+
+
+Tips: The path of "data_dir" and "save_path" can be set according to your actual situation.
 ```python
 python data_script/pororo_hdf5.py
 --data_dir /path/to/pororo_data
