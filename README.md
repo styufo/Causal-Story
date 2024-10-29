@@ -64,6 +64,17 @@ python main.py
 ```
 
 
+# Sample
+Modify the parameters in config. yaml according to the location of your file and change from 'train' to 'sample' and than, run:
+```python
+python main.py
+```
+
+
+#Acknowledgment
+Thanks a lot to @xichenpan for kindly sharing the code of AR-LDM.
+
+
 # Citation
 If you find this code useful for your research, please cite our paper:
 ```BibTeX
