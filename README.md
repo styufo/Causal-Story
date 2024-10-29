@@ -71,7 +71,7 @@ python main.py
 ```
 
 
-#Acknowledgment
+# Acknowledgment
 Thanks a lot to @xichenpan for kindly sharing the code of AR-LDM.
 
 
