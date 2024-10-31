@@ -48,7 +48,7 @@ python data_script/flintstones_hdf5.py
 ```
 
 
-we also provide the hdf5 files here for directly use:
+we also provide the hdf5 files here for directly use (but the files are honestly large):
 
 
 FlintstonesSV hdf5:["百度云盘（提取码3853）"](https://pan.baidu.com/s/1LcbNoMKqP2nF9RHUFUQYzw?pwd=3853).
