@@ -72,7 +72,7 @@ python main.py
 
 
 # Acknowledgment
-Thanks a lot to @xichenpan for kindly sharing the code of AR-LDM.
+Thanks a lot to @xichenpan for kindly sharing the code of ["AR-LDM"](https://github.com/xichenpan/ARLDM).
 
 
 # Citation
